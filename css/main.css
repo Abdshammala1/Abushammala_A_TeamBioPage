@@ -1,0 +1,62 @@
+.header{
+    background-color: #eedd02;
+    height: 400px;
+    padding: 50px 300px;
+}
+
+.mybutton{
+    margin-top: 100px;
+    padding: 15px 30px;
+    width: 250px;
+    font-size: 40px;
+    /* letter-spacing: -1.5px; */
+    background-color: #90037e;
+    border: none;
+    color: white;
+    border-radius: 55px;
+    box-shadow: 4px 5px 5px 3px rgba(0, 0, 0, 0.2);
+}
+
+button:focus {
+    outline: none;
+    outline: none;
+}
+
+.abdal_btn{
+    float: left;
+}
+
+.xyz_btn{
+    float: right;
+}
+
+.title{
+    font-size: 70px;
+    margin-top: -42px;
+    color: #90037e;
+}
+
+.main_image{
+    width: 320px;
+    margin-top: -200px;
+}
+
+.sub_title{
+    color: #90037e;
+    font-size: 42px;
+}
+
+.icon_image{
+    width: 60px;
+}
+
+.icon_text{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.main_title{
+    font-size: 70px;
+    text-align: center;
+    color: #90037e;
+}
