@@ -1,0 +1,13 @@
+.content{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #e9cee6;
+    padding: 40px 40px 60px 40px;
+    color: #90037e;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+
+.mybutton{
+    margin-top: 8px !important;
+}
