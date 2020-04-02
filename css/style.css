@@ -1,0 +1,162 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.main {
+	background-color:#E4DE07;
+	height: 17rem;
+	text-align: center;
+	padding-top: 2.5%;
+
+}
+.team{
+	 color:#790C8C;
+	 font-size:3rem;
+	font-family: Charcoal, sans-serif;
+
+}
+.elements img {
+	margin-left:2%;
+	margin-top: 5%;
+	width:20rem;
+}
+
+.L {
+  background-color: #790C8C; 
+  border: none;
+  color: white;
+  padding: 2%;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  width:12rem;
+  float: left;
+  margin-top: 3%;
+  margin-left: 9%;
+  -moz-border-radius: 35px;
+  -webkit-border-radius:35px;
+  font-family: Charcoal, sans-serif;
+}
+
+.R {
+  background-color: #790C8C; 
+  border: none;
+  color: white;
+  padding:2%;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  float: right;
+  width:12rem;
+  margin-top: 3%;
+  margin-right:9%;
+  border-radius: 35px;
+  -moz-border-radius: 35px;
+  -webkit-border-radius:35px;
+  font-family: Charcoal, sans-serif;
+
+}
+.L:hover,.R:hover {
+  background-color: #C239DF; 
+  color: white;
+  cursor: pointer;
+}
+.L:active,.R:active {
+  background-color: #C239DF;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.contact {
+ background-color:#DDC0E3;
+ height: 35rem;
+ margin-left:15%;
+ margin-right: 15%;
+ border-bottom-right-radius: 15%;
+ border-bottom-left-radius: 15%;
+ margin-bottom: 10%
+}
+
+.name{
+	text-align: center;
+	position: relative;
+	top:35%;
+	 color:#790C8C;
+	 font-size:2rem;
+	 font-family: Charcoal, sans-serif;
+}
+.info {
+	position: relative;
+	top:40%;
+	margin-left:15%;
+}
+
+.container div {
+	float: left;
+	margin-left:5%; 
+	width:45%; 
+	margin-top: 3%;
+}
+
+.profile p {
+	width: 80%;
+	display: inline-block;
+	vertical-align: middle;
+	color:#790C8C;
+	font-size: 17px;
+	font-family: Charcoal, sans-serif;
+}
+.profile img {
+	display: inline-block;
+	vertical-align: middle;
+	width:3rem; 
+
+}
+.place p {
+	width: 30%;
+	display: inline-block;
+	vertical-align: middle;
+	color:#790C8C;
+	font-size: 17px;
+	font-family: Charcoal, sans-serif;
+}
+.place img {
+	display: inline-block;
+	vertical-align: middle;
+	width:4rem;
+}
+.behance {
+	clear: both;
+}
+.behance p {
+	width: 30%;
+	display: inline-block;
+	vertical-align: middle;
+	color:#790C8C;
+	font-size: 17px;
+	font-family: Charcoal, sans-serif;
+}
+.behance img {
+	display: inline-block;
+	vertical-align: middle;
+	width:4rem; 
+}
+
+
+.email p {
+	width: 70%;
+	display: inline-block;
+	vertical-align: middle;
+	color:#790C8C;
+	font-size: 17px;
+	font-family: Charcoal, sans-serif;
+}
+.email img {
+	display: inline-block;
+	vertical-align: middle;
+	width:4rem; 
+}
